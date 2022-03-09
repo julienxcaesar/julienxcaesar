@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @julienxcaesar
+- 👋 Hi, I’m julien x 
 - 👀 I’m interested in ...becoming a better programmer
 - 🌱 I’m currently learning ... Python and becoming a data/software engineer 
 - 💞️ I’m looking to collaborate on ... different projects from Javascript to Python
